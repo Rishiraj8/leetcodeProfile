@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;  
+
+body{
+ 
+    background-image: url(https://1734811051.rsc.cdn77.org/data/images/full/440703/uk-schoolboy-finds-apples-nerd-face-emoji-offensive-urges-firm-to-change-it.png?w=600?w=430);
+    background-repeat: repeat;
+}
+
+table{
+    background-color: transparent;
+}
